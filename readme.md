@@ -44,7 +44,11 @@ launchDate :
 - Use repository layer
 
 Endpoints :
+
 Get all the Movies
+
 Add new Movie
+
 Update Movie
+
 Delete Movie
